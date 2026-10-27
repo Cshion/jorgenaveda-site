@@ -6,9 +6,14 @@ How to decide who handles what.
 
 | Work Type | Route To | Examples |
 |-----------|----------|----------|
-
-Preset installation adds concrete routes for the configured team. Add or edit rows
-here only when their agent names also exist in the casting registry.
+| Technical coordination and review | Lead | Scope, technical decisions, review and triage |
+| Frontend development | Frontend | Next.js App Router, React, TypeScript, Tailwind CSS and accessibility |
+| Tests and validation | Tester | Lint, builds, smoke checks and regression coverage |
+| Tooling and configuration | Infra | npm, Node.js requirements and development configuration |
+| Durable decisions and shared context | Scribe | Merge accepted decisions and curate cross-agent context |
+| Work queue monitoring | Ralph | Backlog, issue lifecycle and keep-alive |
+| Responsible AI and content safety | Rai | Safety awareness and policy checks |
+| Verification and adversarial review | Fact Checker | Verify claims, check evidence and challenge assumptions |
 
 ## Issue Routing
 

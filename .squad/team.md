@@ -12,6 +12,14 @@
 
 | Name | Role | Charter | Status |
 |------|------|---------|--------|
+| Lead | Technical coordination and review | [Charter](agents/lead/charter.md) | Active |
+| Frontend | Next.js, React and UI | [Charter](agents/frontend/charter.md) | Active |
+| Tester | Tests and validation | [Charter](agents/tester/charter.md) | Active |
+| Infra | Tooling and configuration | [Charter](agents/infra/charter.md) | Active |
+| Scribe | Durable decisions and shared context | [Charter](agents/scribe/charter.md) | Built-in |
+| Ralph | Work queue and backlog monitor | [Charter](agents/ralph/charter.md) | Built-in |
+| Rai | Responsible AI and content safety | [Charter](agents/Rai/charter.md) | Built-in |
+| Fact Checker | Verification and Devil's Advocate | [Charter](agents/fact-checker/charter.md) | Built-in |
 
 
 ## Coding Agent
@@ -51,3 +59,6 @@
 
 - **Project:** jorgenaveda-site
 - **Created:** 2026-10-27
+- **Stack:** Next.js, React, TypeScript, App Router, Tailwind CSS, ESLint and npm.
+- **Frontend:** `frontend/`; official starter only. No backend or deployment configured.
+- **Naming:** Approved descriptive roles, with the four standard built-ins.

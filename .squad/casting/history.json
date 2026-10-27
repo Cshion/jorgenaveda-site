@@ -1,6 +1,27 @@
 {
-  "universe_usage_history": [],
-  "assignment_cast_snapshots": {},
-  "transaction_id": "9ecce7cb-ebab-4e6c-88db-f40583ee9d25",
-  "registry_revision": 1
+  "universe_usage_history": [
+    {
+      "universe": "Descriptive",
+      "assignment_id": "initial-frontend-2026-10-27",
+      "used_at": "2026-10-27T20:08:02.446Z"
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "initial-frontend-2026-10-27": {
+      "universe": "Descriptive",
+      "agents": {
+        "lead": "Lead",
+        "frontend": "Frontend",
+        "tester": "Tester",
+        "infra": "Infra",
+        "scribe": "Scribe",
+        "ralph": "Ralph",
+        "rai": "Rai",
+        "fact-checker": "Fact Checker"
+      },
+      "created_at": "2026-10-27T20:08:02.446Z"
+    }
+  },
+  "transaction_id": "5fa0e4b7-67da-4a2d-b1ab-f9052639fb35",
+  "registry_revision": 2
 }
